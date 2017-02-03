@@ -4,3 +4,4 @@ services:
 #        arguments: ["@service_id", "plain_value", "%parameter%"]
   just.services.time_is_on_my_side:
     class: JustBundle\Services\TimeIsOnMySide
+
