@@ -141,3 +141,8 @@ fb78f1,127.0.0.1,GET,http://localhost:8000/creaturefantastique/show/1,1486243990
 88e439,127.0.0.1,POST,http://localhost:8000/creaturefantastique/new,1486244023,,302
 8ffa99,127.0.0.1,GET,http://localhost:8000/creaturefantastique/show/2,1486244024,,200
 95f1db,127.0.0.1,GET,http://localhost:8000/creaturefantastique/,1486244025,,200
+896048,127.0.0.1,GET,http://localhost:8000/,1486338613,,200
+54581e,127.0.0.1,GET,http://localhost:8000/creaturefantastique,1486338627,,301
+84f86c,127.0.0.1,GET,http://localhost:8000/creaturefantastique/,1486338628,165b88,200
+165b88,127.0.0.1,GET,http://localhost:8000/creaturefantastique/,1486338628,,500
+34d538,127.0.0.1,GET,http://localhost:8000/creaturefantastique/,1486338663,,200
